@@ -218,7 +218,7 @@ const styles = StyleSheet.create({
     right: 10,
   },
   info: {
-    backgroundColor: '#000',
+    backgroundColor: 'rgba(0,0,0,0.9)',
     width: '98%',
     height: screenHeight,
     borderTopLeftRadius: 12,
