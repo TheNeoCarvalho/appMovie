@@ -1,5 +1,7 @@
 ## AppMovie
 
+![App Movie](https://github.com/TheNeoCarvalho/appMovie/blob/master/screen.gif)
+
 ### `Aplicação criada para fins de estudos.`
 
 ### Tecnologias usadas:
